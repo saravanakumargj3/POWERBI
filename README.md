@@ -1,6 +1,6 @@
 # POWERBI
 Dashboard of Sales Analytics
-Overview
+##Overview
 The Power BI Sales Analytics Dashboard provides a comprehensive view of sales performance by connecting to a MySQL database using MySQL Workbench. This dashboard helps you analyze sales data through interactive visuals and reports.
 
 Prerequisites
